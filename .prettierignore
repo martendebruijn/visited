@@ -1,0 +1,4 @@
+public/**/*
+# Ignore artifacts:
+build
+coverage
