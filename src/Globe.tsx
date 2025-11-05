@@ -22,6 +22,7 @@ const VISITED = [
   "CY",
   "CZ",
   "SI",
+  "PT",
 ];
 
 function makeRandomColor() {
